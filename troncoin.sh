@@ -5,7 +5,4 @@ wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolM
 tar -xf lolMiner_v1.29_Lin64.tar.gz 
 cd 1.29 
 ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:TJReV8g7d6EtxWbeP9iYmhZHgzRxxxbz4a.jbgithub --ethstratum ETHPROXY
-while [ 1 ]; do
-sleep 3
-done
-sleep 999
+
